@@ -1,5 +1,6 @@
 # LIVE-YT-OPENGL
 This is the github for the Live YT Channel video  
+https://www.youtube.com/watch?v=1SeqRRlaMvw  
   
 YTOPENGL is for building the library  
   
